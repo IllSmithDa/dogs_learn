@@ -1,0 +1,60 @@
+.qodo
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+
+# Environment variables and secret files
+.env
+*.env
+
+# Package management
+pip-log.txt
+poetry.lock
+Pipfile.lock
+
+# VSCode or IDE settings
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Pytest or coverage outputs
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Model files and checkpoints (if any)
+*.pth
+*.pt
+*.zip
+*.tar.gz
+*.tar
+
+cleaned_dogs_data_filtered/
+cleaned_dogs_data_unfiltered/
+dogs_data/
+master_dogs_split/
+models/
+master_models/
+dev-env/
+test_images/
+
+# Static / temp uploads (optional)
+tmp/
+uploads/

@@ -1,0 +1,360 @@
+data\master_dogs_split\train\affenpinscher
+data\master_dogs_split\val\affenpinscher
+data\master_dogs_split\test\affenpinscher
+data\master_dogs_split\train\afghan hound
+data\master_dogs_split\val\afghan hound
+data\master_dogs_split\test\afghan hound
+data\master_dogs_split\train\african hunting dog
+data\master_dogs_split\val\african hunting dog
+data\master_dogs_split\test\african hunting dog
+data\master_dogs_split\train\airedale
+data\master_dogs_split\val\airedale
+data\master_dogs_split\test\airedale
+data\master_dogs_split\train\american staffordshire terrier
+data\master_dogs_split\val\american staffordshire terrier
+data\master_dogs_split\test\american staffordshire terrier
+data\master_dogs_split\train\appenzeller
+data\master_dogs_split\val\appenzeller
+data\master_dogs_split\test\appenzeller
+data\master_dogs_split\train\australian terrier
+data\master_dogs_split\val\australian terrier
+data\master_dogs_split\test\australian terrier
+data\master_dogs_split\train\basenji
+data\master_dogs_split\val\basenji
+data\master_dogs_split\test\basenji
+data\master_dogs_split\train\basset
+data\master_dogs_split\val\basset
+data\master_dogs_split\test\basset
+data\master_dogs_split\train\beagle
+data\master_dogs_split\val\beagle
+data\master_dogs_split\test\beagle
+data\master_dogs_split\train\bedlington terrier
+data\master_dogs_split\val\bedlington terrier
+data\master_dogs_split\test\bedlington terrier
+data\master_dogs_split\train\bernese mountain dog
+data\master_dogs_split\val\bernese mountain dog
+data\master_dogs_split\test\bernese mountain dog
+data\master_dogs_split\train\black-and-tan coonhound
+data\master_dogs_split\val\black-and-tan coonhound
+data\master_dogs_split\test\black-and-tan coonhound
+data\master_dogs_split\train\blenheim spaniel
+data\master_dogs_split\val\blenheim spaniel
+data\master_dogs_split\test\blenheim spaniel
+data\master_dogs_split\train\bloodhound
+data\master_dogs_split\val\bloodhound
+data\master_dogs_split\test\bloodhound
+data\master_dogs_split\train\bluetick
+data\master_dogs_split\val\bluetick
+data\master_dogs_split\test\bluetick
+data\master_dogs_split\train\border collie
+data\master_dogs_split\val\border collie
+data\master_dogs_split\test\border collie
+data\master_dogs_split\train\border terrier
+data\master_dogs_split\val\border terrier
+data\master_dogs_split\test\border terrier
+data\master_dogs_split\train\borzoi
+data\master_dogs_split\val\borzoi
+data\master_dogs_split\test\borzoi
+data\master_dogs_split\train\boston bull
+data\master_dogs_split\val\boston bull
+data\master_dogs_split\test\boston bull
+data\master_dogs_split\train\bouvier des flandres
+data\master_dogs_split\val\bouvier des flandres
+data\master_dogs_split\test\bouvier des flandres
+data\master_dogs_split\train\boxer
+data\master_dogs_split\val\boxer
+data\master_dogs_split\test\boxer
+data\master_dogs_split\train\brabancon griffon
+data\master_dogs_split\val\brabancon griffon
+data\master_dogs_split\test\brabancon griffon
+data\master_dogs_split\train\briard
+data\master_dogs_split\val\briard
+data\master_dogs_split\test\briard
+data\master_dogs_split\train\brittany spaniel
+data\master_dogs_split\val\brittany spaniel
+data\master_dogs_split\test\brittany spaniel
+data\master_dogs_split\train\bull mastiff
+data\master_dogs_split\val\bull mastiff
+data\master_dogs_split\test\bull mastiff
+data\master_dogs_split\train\cairn
+data\master_dogs_split\val\cairn
+data\master_dogs_split\test\cairn
+data\master_dogs_split\train\cardigan
+data\master_dogs_split\val\cardigan
+data\master_dogs_split\test\cardigan
+data\master_dogs_split\train\chesapeake bay retriever
+data\master_dogs_split\val\chesapeake bay retriever
+data\master_dogs_split\test\chesapeake bay retriever
+data\master_dogs_split\train\chihuahua
+data\master_dogs_split\val\chihuahua
+data\master_dogs_split\test\chihuahua
+data\master_dogs_split\train\chow
+data\master_dogs_split\val\chow
+data\master_dogs_split\test\chow
+data\master_dogs_split\train\clumber
+data\master_dogs_split\val\clumber
+data\master_dogs_split\test\clumber
+data\master_dogs_split\train\cocker spaniel
+data\master_dogs_split\val\cocker spaniel
+data\master_dogs_split\test\cocker spaniel
+data\master_dogs_split\train\collie
+data\master_dogs_split\val\collie
+data\master_dogs_split\test\collie
+data\master_dogs_split\train\curly-coated retriever
+data\master_dogs_split\val\curly-coated retriever
+data\master_dogs_split\test\curly-coated retriever
+data\master_dogs_split\train\dandie dinmont
+data\master_dogs_split\val\dandie dinmont
+data\master_dogs_split\test\dandie dinmont
+data\master_dogs_split\train\dhole
+data\master_dogs_split\val\dhole
+data\master_dogs_split\test\dhole
+data\master_dogs_split\train\dingo
+data\master_dogs_split\val\dingo
+data\master_dogs_split\test\dingo
+data\master_dogs_split\train\doberman
+data\master_dogs_split\val\doberman
+data\master_dogs_split\test\doberman
+data\master_dogs_split\train\english foxhound
+data\master_dogs_split\val\english foxhound
+data\master_dogs_split\test\english foxhound
+data\master_dogs_split\train\english setter
+data\master_dogs_split\val\english setter
+data\master_dogs_split\test\english setter
+data\master_dogs_split\train\english springer
+data\master_dogs_split\val\english springer
+data\master_dogs_split\test\english springer
+data\master_dogs_split\train\entlebucher
+data\master_dogs_split\val\entlebucher
+data\master_dogs_split\test\entlebucher
+data\master_dogs_split\train\eskimo dog
+data\master_dogs_split\val\eskimo dog
+data\master_dogs_split\test\eskimo dog
+data\master_dogs_split\train\flat-coated retriever
+data\master_dogs_split\val\flat-coated retriever
+data\master_dogs_split\test\flat-coated retriever
+data\master_dogs_split\train\french bulldog
+data\master_dogs_split\val\french bulldog
+data\master_dogs_split\test\french bulldog
+data\master_dogs_split\train\german shepherd
+data\master_dogs_split\val\german shepherd
+data\master_dogs_split\test\german shepherd
+data\master_dogs_split\train\german short-haired pointer
+data\master_dogs_split\val\german short-haired pointer
+data\master_dogs_split\test\german short-haired pointer
+data\master_dogs_split\train\giant schnauzer
+data\master_dogs_split\val\giant schnauzer
+data\master_dogs_split\test\giant schnauzer
+data\master_dogs_split\train\golden retriever
+data\master_dogs_split\val\golden retriever
+data\master_dogs_split\test\golden retriever
+data\master_dogs_split\train\gordon setter
+data\master_dogs_split\val\gordon setter
+data\master_dogs_split\test\gordon setter
+data\master_dogs_split\train\great dane
+data\master_dogs_split\val\great dane
+data\master_dogs_split\test\great dane
+data\master_dogs_split\train\great pyrenees
+data\master_dogs_split\val\great pyrenees
+data\master_dogs_split\test\great pyrenees
+data\master_dogs_split\train\greater swiss mountain dog
+data\master_dogs_split\val\greater swiss mountain dog
+data\master_dogs_split\test\greater swiss mountain dog
+data\master_dogs_split\train\groenendael
+data\master_dogs_split\val\groenendael
+data\master_dogs_split\test\groenendael
+data\master_dogs_split\train\ibizan hound
+data\master_dogs_split\val\ibizan hound
+data\master_dogs_split\test\ibizan hound
+data\master_dogs_split\train\irish setter
+data\master_dogs_split\val\irish setter
+data\master_dogs_split\test\irish setter
+data\master_dogs_split\train\irish terrier
+data\master_dogs_split\val\irish terrier
+data\master_dogs_split\test\irish terrier
+data\master_dogs_split\train\irish water spaniel
+data\master_dogs_split\val\irish water spaniel
+data\master_dogs_split\test\irish water spaniel
+data\master_dogs_split\train\irish wolfhound
+data\master_dogs_split\val\irish wolfhound
+data\master_dogs_split\test\irish wolfhound
+data\master_dogs_split\train\italian greyhound
+data\master_dogs_split\val\italian greyhound
+data\master_dogs_split\test\italian greyhound
+data\master_dogs_split\train\japanese spaniel
+data\master_dogs_split\val\japanese spaniel
+data\master_dogs_split\test\japanese spaniel
+data\master_dogs_split\train\keeshond
+data\master_dogs_split\val\keeshond
+data\master_dogs_split\test\keeshond
+data\master_dogs_split\train\kelpie
+data\master_dogs_split\val\kelpie
+data\master_dogs_split\test\kelpie
+data\master_dogs_split\train\kerry blue terrier
+data\master_dogs_split\val\kerry blue terrier
+data\master_dogs_split\test\kerry blue terrier
+data\master_dogs_split\train\komondor
+data\master_dogs_split\val\komondor
+data\master_dogs_split\test\komondor
+data\master_dogs_split\train\kuvasz
+data\master_dogs_split\val\kuvasz
+data\master_dogs_split\test\kuvasz
+data\master_dogs_split\train\labrador retriever
+data\master_dogs_split\val\labrador retriever
+data\master_dogs_split\test\labrador retriever
+data\master_dogs_split\train\lakeland terrier
+data\master_dogs_split\val\lakeland terrier
+data\master_dogs_split\test\lakeland terrier
+data\master_dogs_split\train\leonberg
+data\master_dogs_split\val\leonberg
+data\master_dogs_split\test\leonberg
+data\master_dogs_split\train\lhasa
+data\master_dogs_split\val\lhasa
+data\master_dogs_split\test\lhasa
+data\master_dogs_split\train\malamute
+data\master_dogs_split\val\malamute
+data\master_dogs_split\test\malamute
+data\master_dogs_split\train\malinois
+data\master_dogs_split\val\malinois
+data\master_dogs_split\test\malinois
+data\master_dogs_split\train\maltese dog
+data\master_dogs_split\val\maltese dog
+data\master_dogs_split\test\maltese dog
+data\master_dogs_split\train\mexican hairless
+data\master_dogs_split\val\mexican hairless
+data\master_dogs_split\test\mexican hairless
+data\master_dogs_split\train\miniature pinscher
+data\master_dogs_split\val\miniature pinscher
+data\master_dogs_split\test\miniature pinscher
+data\master_dogs_split\train\miniature poodle
+data\master_dogs_split\val\miniature poodle
+data\master_dogs_split\test\miniature poodle
+data\master_dogs_split\train\miniature schnauzer
+data\master_dogs_split\val\miniature schnauzer
+data\master_dogs_split\test\miniature schnauzer
+data\master_dogs_split\train\newfoundland
+data\master_dogs_split\val\newfoundland
+data\master_dogs_split\test\newfoundland
+data\master_dogs_split\train\norfolk terrier
+data\master_dogs_split\val\norfolk terrier
+data\master_dogs_split\test\norfolk terrier
+data\master_dogs_split\train\norwegian elkhound
+data\master_dogs_split\val\norwegian elkhound
+data\master_dogs_split\test\norwegian elkhound
+data\master_dogs_split\train\norwich terrier
+data\master_dogs_split\val\norwich terrier
+data\master_dogs_split\test\norwich terrier
+data\master_dogs_split\train\old english sheepdog
+data\master_dogs_split\val\old english sheepdog
+data\master_dogs_split\test\old english sheepdog
+data\master_dogs_split\train\otterhound
+data\master_dogs_split\val\otterhound
+data\master_dogs_split\test\otterhound
+data\master_dogs_split\train\papillon
+data\master_dogs_split\val\papillon
+data\master_dogs_split\test\papillon
+data\master_dogs_split\train\pekinese
+data\master_dogs_split\val\pekinese
+data\master_dogs_split\test\pekinese
+data\master_dogs_split\train\pembroke
+data\master_dogs_split\val\pembroke
+data\master_dogs_split\test\pembroke
+data\master_dogs_split\train\pomeranian
+data\master_dogs_split\val\pomeranian
+data\master_dogs_split\test\pomeranian
+data\master_dogs_split\train\pug
+data\master_dogs_split\val\pug
+data\master_dogs_split\test\pug
+data\master_dogs_split\train\redbone
+data\master_dogs_split\val\redbone
+data\master_dogs_split\test\redbone
+data\master_dogs_split\train\rhodesian ridgeback
+data\master_dogs_split\val\rhodesian ridgeback
+data\master_dogs_split\test\rhodesian ridgeback
+data\master_dogs_split\train\rottweiler
+data\master_dogs_split\val\rottweiler
+data\master_dogs_split\test\rottweiler
+data\master_dogs_split\train\saint bernard
+data\master_dogs_split\val\saint bernard
+data\master_dogs_split\test\saint bernard
+data\master_dogs_split\train\saluki
+data\master_dogs_split\val\saluki
+data\master_dogs_split\test\saluki
+data\master_dogs_split\train\samoyed
+data\master_dogs_split\val\samoyed
+data\master_dogs_split\test\samoyed
+data\master_dogs_split\train\schipperke
+data\master_dogs_split\val\schipperke
+data\master_dogs_split\test\schipperke
+data\master_dogs_split\train\scotch terrier
+data\master_dogs_split\val\scotch terrier
+data\master_dogs_split\test\scotch terrier
+data\master_dogs_split\train\scottish deerhound
+data\master_dogs_split\val\scottish deerhound
+data\master_dogs_split\test\scottish deerhound
+data\master_dogs_split\train\sealyham terrier
+data\master_dogs_split\val\sealyham terrier
+data\master_dogs_split\test\sealyham terrier
+data\master_dogs_split\train\shetland sheepdog
+data\master_dogs_split\val\shetland sheepdog
+data\master_dogs_split\test\shetland sheepdog
+data\master_dogs_split\train\shih-tzu
+data\master_dogs_split\val\shih-tzu
+data\master_dogs_split\test\shih-tzu
+data\master_dogs_split\train\siberian husky
+data\master_dogs_split\val\siberian husky
+data\master_dogs_split\test\siberian husky
+data\master_dogs_split\train\silky terrier
+data\master_dogs_split\val\silky terrier
+data\master_dogs_split\test\silky terrier
+data\master_dogs_split\train\soft-coated wheaten terrier
+data\master_dogs_split\val\soft-coated wheaten terrier
+data\master_dogs_split\test\soft-coated wheaten terrier
+data\master_dogs_split\train\staffordshire bullterrier
+data\master_dogs_split\val\staffordshire bullterrier
+data\master_dogs_split\test\staffordshire bullterrier
+data\master_dogs_split\train\standard poodle
+data\master_dogs_split\val\standard poodle
+data\master_dogs_split\test\standard poodle
+data\master_dogs_split\train\standard schnauzer
+data\master_dogs_split\val\standard schnauzer
+data\master_dogs_split\test\standard schnauzer
+data\master_dogs_split\train\sussex spaniel
+data\master_dogs_split\val\sussex spaniel
+data\master_dogs_split\test\sussex spaniel
+data\master_dogs_split\train\tibetan mastiff
+data\master_dogs_split\val\tibetan mastiff
+data\master_dogs_split\test\tibetan mastiff
+data\master_dogs_split\train\tibetan terrier
+data\master_dogs_split\val\tibetan terrier
+data\master_dogs_split\test\tibetan terrier
+data\master_dogs_split\train\toy poodle
+data\master_dogs_split\val\toy poodle
+data\master_dogs_split\test\toy poodle
+data\master_dogs_split\train\toy terrier
+data\master_dogs_split\val\toy terrier
+data\master_dogs_split\test\toy terrier
+data\master_dogs_split\train\vizsla
+data\master_dogs_split\val\vizsla
+data\master_dogs_split\test\vizsla
+data\master_dogs_split\train\walker hound
+data\master_dogs_split\val\walker hound
+data\master_dogs_split\test\walker hound
+data\master_dogs_split\train\weimaraner
+data\master_dogs_split\val\weimaraner
+data\master_dogs_split\test\weimaraner
+data\master_dogs_split\train\welsh springer spaniel
+data\master_dogs_split\val\welsh springer spaniel
+data\master_dogs_split\test\welsh springer spaniel
+data\master_dogs_split\train\west highland white terrier
+data\master_dogs_split\val\west highland white terrier
+data\master_dogs_split\test\west highland white terrier
+data\master_dogs_split\train\whippet
+data\master_dogs_split\val\whippet
+data\master_dogs_split\test\whippet
+data\master_dogs_split\train\wire-haired fox terrier
+data\master_dogs_split\val\wire-haired fox terrier
+data\master_dogs_split\test\wire-haired fox terrier
+data\master_dogs_split\train\yorkshire terrier
+data\master_dogs_split\val\yorkshire terrier
+data\master_dogs_split\test\yorkshire terrier
