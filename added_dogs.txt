@@ -13,6 +13,9 @@ data\master_dogs_split\test\airedale
 data\master_dogs_split\train\american staffordshire terrier
 data\master_dogs_split\val\american staffordshire terrier
 data\master_dogs_split\test\american staffordshire terrier
+data\master_dogs_split\train\and-tan coonhound
+data\master_dogs_split\val\and-tan coonhound
+data\master_dogs_split\test\and-tan coonhound
 data\master_dogs_split\train\appenzeller
 data\master_dogs_split\val\appenzeller
 data\master_dogs_split\test\appenzeller
@@ -34,9 +37,6 @@ data\master_dogs_split\test\bedlington terrier
 data\master_dogs_split\train\bernese mountain dog
 data\master_dogs_split\val\bernese mountain dog
 data\master_dogs_split\test\bernese mountain dog
-data\master_dogs_split\train\black-and-tan coonhound
-data\master_dogs_split\val\black-and-tan coonhound
-data\master_dogs_split\test\black-and-tan coonhound
 data\master_dogs_split\train\blenheim spaniel
 data\master_dogs_split\val\blenheim spaniel
 data\master_dogs_split\test\blenheim spaniel
@@ -94,15 +94,15 @@ data\master_dogs_split\test\chow
 data\master_dogs_split\train\clumber
 data\master_dogs_split\val\clumber
 data\master_dogs_split\test\clumber
+data\master_dogs_split\train\coated retriever
+data\master_dogs_split\val\coated retriever
+data\master_dogs_split\test\coated retriever
 data\master_dogs_split\train\cocker spaniel
 data\master_dogs_split\val\cocker spaniel
 data\master_dogs_split\test\cocker spaniel
 data\master_dogs_split\train\collie
 data\master_dogs_split\val\collie
 data\master_dogs_split\test\collie
-data\master_dogs_split\train\curly-coated retriever
-data\master_dogs_split\val\curly-coated retriever
-data\master_dogs_split\test\curly-coated retriever
 data\master_dogs_split\train\dandie dinmont
 data\master_dogs_split\val\dandie dinmont
 data\master_dogs_split\test\dandie dinmont

@@ -17,11 +17,25 @@
        - client: https://github.com/IllSmithDa/animal-client
        - server: https://github.com/IllSmithDa/fast-server
 
+# Important Notes
+
+  * The right learning rate was between 0.0001 and 0.00005. Any higher learning rate decreased the consistency of the validation data set and causes possible overfitting. 
+
+      - This is reminder for me that a learning rate that is too high can causes overfitting and will causes the model to struggle to handle new data
+
+      - https://www.baeldung.com/cs/ml-underfitting-overfitting
+
+  * While the graph does say test loss and accuracy, its is actually the validation loss and accuracy. 
+
+  * It is important to keep the transforms configuration mostly the same (apart from from horzontal flips) when training and using the model in real world applications    
+
 # Project Status
 
-  * The project has mostly been completed by successfully training a model using the Efficient_B2 pretrained model using a learning rate of 0.0001 and 9 epochs.
+  * The project has mostly been completed by successfully training a model using the Efficient_B1 pretrained model using a learning rate of 0.00005 and 8 epochs.
 
-  * The quality of the dataset could be better, and as a result, the accuracy, especially during the test phase, will rarely rise above 80 percent.
+    - Model 4 and graph 4
+
+  * The quality of the dataset could be better, and as a result, the accuracy, especially during the test phase, will rarely rise above 83 percent.
 
   * The model has been consumed by a full-stack application built by me
 
