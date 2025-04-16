@@ -27,7 +27,9 @@
 
   * While the graph does say test loss and accuracy, its is actually the validation loss and accuracy. 
 
-  * It is important to keep the transforms configuration mostly the same (apart from from horzontal flips) when training and using the model in real world applications    
+  * It is important to keep the transforms configuration mostly the same (apart from from horzontal flips) when training and using the model in real world application
+
+  * Hive AI has been used for handling the generation of random dog facts. The Llama 3.2 1B Instruct model has been chosen specifically for its low cost while still being effective for the simple task. 
 
 # Project Status
 
